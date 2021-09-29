@@ -42,9 +42,7 @@ Basic Functionality (Compose Tweet & Add to RecyclerView, Modal View, Reply from
 
 Additional Functionality (Data Persistence, Network Connectivity Detection, Parcelable)
 
-<img src='walkthrough_twitter_2_no_connection.gif' title='Walkthrough of Additional Functionality' width='' alt='Walkthrough of Additional Functionality' />
 
-GIF created with [Kap](https://getkap.co/).
 
 ## License
 
