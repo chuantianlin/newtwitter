@@ -39,6 +39,7 @@ Here's a walkthrough of implemented user stories:
 Basic Functionality (Compose Tweet & Add to RecyclerView, Modal View, Reply from RecyclerView Item and Detail View)
 
 <img src='walkthrough_twitter_2_basic.gif' title='Walkthrough of Basic Functionality' width='' alt='Walkthrough of Basic Functionality' />
+<img src='walkthrough_twitter_1_basic.gif' title='Walkthrough of Basic Functionality' width='' alt='Walkthrough of Basic Functionality' />
 
 Additional Functionality (Data Persistence, Network Connectivity Detection, Parcelable)
 
